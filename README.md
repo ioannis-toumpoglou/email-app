@@ -1,4 +1,4 @@
-E-MAIL APPLICATION
+# e-mail application
 
 This application receives input from the user (first name, last name and department code) and
 generates an e-mail address which follows the syntax "firstname.lastname@department.company.com".
